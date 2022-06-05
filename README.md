@@ -18,8 +18,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://github.com/OmarCypha700/3-column-preview-card)
+- Live Site URL: [Live site](https://3colprevcypha.netlify.app)
 
 
 ### Built with
